@@ -1,0 +1,13 @@
+{
+    "name": "navneet/hello",
+    "description": "testing package for learn how to create package",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Navneet\\Hello\\": "src/"
+        }
+    },
+    "require": {}
+}
